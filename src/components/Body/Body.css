@@ -1,0 +1,99 @@
+.box {
+    display: flex;
+    margin-top: 80px;
+}
+.all {
+    background-color: hsl(218, 28%, 13%);
+}
+
+.box1 {
+    flex: 50%;
+    margin-left: 200px;
+}
+.box2 {
+    flex: 50%;
+    margin-right: 200px;
+}
+
+span {
+    font-size: 10px;
+}
+
+.icon {
+    height: 50px;
+}
+
+.section {
+    display: flex;
+    margin-top: 100px;
+}
+
+.imgfile {
+    flex: 50%;
+}
+
+.pic{
+    height: 350px;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.letter {
+    margin-right: 150px;
+    margin-left: 100px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.section {
+    display: flex;
+}
+
+.rec {
+    border: 1px solid none;
+    font-size: 14px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.dp {
+    width: 50px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.founder {
+    display: flex;
+}
+
+.last {
+    border: 1px solid none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 160px;
+    padding: 30px;
+}
+input {
+    border-radius: 20px;
+    border: 1px solid;
+    height: 40px;
+    width: 60%;
+}
+
+button {
+    border-radius: 20px;
+    border: 1px none;
+    margin-right: 30px;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(189, 138, 236);
+}
+
+.para {
+    padding-left: 55px;
+    padding-right: 55px;
+}

@@ -1,0 +1,25 @@
+.hed {
+    height: 450px;
+    margin-top: 80px;
+}
+
+h1 {
+    padding-right: 350px;
+    padding-left: 350px;
+}
+
+p {
+    font-size: 14px;
+    padding-right: 420px;
+    padding-left: 420px;
+}
+
+.but {
+    background-color: rgb(189, 138, 236);
+    border-radius: 20px;
+    border: none;
+    width: 200px;
+    height: 30px;
+    font-size: 12px;
+    margin-top: 10px;
+}

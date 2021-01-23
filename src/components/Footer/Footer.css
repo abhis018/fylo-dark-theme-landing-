@@ -1,0 +1,27 @@
+.Foot {
+    background-color: hsl(216, 53%, 9%);
+    color: white;
+}
+h5 {
+    padding-right: 55px;
+    flex: 20%;
+}
+
+.comp {
+    text-align: left;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.grid {
+    display: flex;
+}
+
+.log{
+    margin-right: 50px;
+    margin-top: 15px;
+}
